@@ -13,16 +13,16 @@
 - 💬 Ask me about **Frontend Technologies**
 
 
-- 📫 How to reach me **Dev.Hammad1@gmail.com**
+- 📫 How to reach me **chishtiammar84@gmaol.com**
 
 - ⚡ Fun fact **I Am Very Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/itss hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itss hammad" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/hammadmirfan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thornike" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hammad._.irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammad._.irfan" height="30" width="40" /></a>
-<a href="https://wa.me/923366217108/" target="_blank">
+    <a href="https://www.linkedin.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thornike" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hammad._.irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ammar-cgishti9" height="30" width="40" /></a>
+<a href="https://wa.me/923113137565/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="80" style="margin-right: 0px;" />
 </a>
   
