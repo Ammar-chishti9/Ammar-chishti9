@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="399" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmmarChishti&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmirfan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmmarChishti&label=Profile%20views&color=0e75b6&style=flat" alt="AmmarChishti" /> </p>
 
 
 - 🚀 Owner & Founder Of **ITSKILL (Skills Learning Academy)**
