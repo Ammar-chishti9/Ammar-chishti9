@@ -14,14 +14,7 @@
 - 🚀 2 Years Experience Of Web Development Training AT **WellWisher Welfare & Organization Trust**
 
 
-- 🔭 I’m currently working on Flutter Mobile Applications Or Other Frontend Technologies
-
-- 🌱 I’m currently learning **Dart_Flutter & ASP.Net**
-
-- 💬 Ask me about **Frontend Technologies**
-
-
-- 📫 How to reach me **chishtiammar84gmail.com**
+📫 How to reach me **chishtiammar84gmail.com**
 
 - ⚡ Fun fact **I Am Very Creative**
 
